@@ -1,7 +1,7 @@
-# Tauri + React
+#RBeditor
 
-This template should help get you started developing with Tauri and React in Vite.
+Es prochecto estoy empezando a crear toda sugerebcia 
 
-## Recommended IDE Setup
+para arracarlo  es npm run tauri dev
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+despues en otro los 3 server en la carpecta de rust-executor y hacer npm ./server.js asi con los 3 
